@@ -1,6 +1,6 @@
 # The Impact of ChatGPT on UCSD Students
 
-**Author**: Brandon Ng
+**Author**: Brandon Ng and Sophia Yu
 
 ## Abstract
 
